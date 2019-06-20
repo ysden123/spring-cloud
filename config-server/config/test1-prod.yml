@@ -2,4 +2,5 @@
 # Copyright (c) 2019. Yuriy Stul
 #
 
-test.a=123
+test:
+  a: 456

@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2019. Yuriy Stul
+ */
+
 package com.stulsoft.spring.cloud.configclient;
 
 import org.junit.Test;
