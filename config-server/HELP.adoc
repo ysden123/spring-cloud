@@ -1,0 +1,13 @@
+= Getting Started
+
+=== Reference Documentation
+
+For further reference, please consider the following sections:
+
+* https://maven.apache.org/guides/index.html[Official Apache Maven documentation]
+
+=== Guides
+
+The following guides illustrate how to use some features concretely:
+
+* https://spring.io/guides/gs/centralized-configuration/[Centralized Configuration]
