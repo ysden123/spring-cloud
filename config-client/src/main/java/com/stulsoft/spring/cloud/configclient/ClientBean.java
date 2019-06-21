@@ -21,4 +21,8 @@ public class ClientBean {
     public void postConstruct() {
         System.out.println("msg1=" + msg1);
     }
+
+    public String getMsg1() {
+        return msg1;
+    }
 }
