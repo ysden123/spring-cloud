@@ -1,6 +1,6 @@
-spring:
-    cloud:
-        config:
-            uri: "http://localhost:8080"
-    profiles:
-        active: test
+#spring:
+#    cloud:
+#        config:
+#            uri: "http://localhost:8080"
+#    profiles:
+#        active: test
