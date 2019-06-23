@@ -1,0 +1,9 @@
+= config-server
+
+== Running
+
+Run ConfigApplication
+
+HTTP request:
+http://localhost:8080/test1/test
+http://localhost:8080/test1/prod
